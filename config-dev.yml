@@ -1,1 +1,2 @@
-msg: dev branch|config-dev.yml
+config
+  info: dev branch|config-dev.yml
